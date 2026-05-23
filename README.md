@@ -1,4 +1,4 @@
-﻿# Grupo 3 - Ecommerce Crisis RAG
+﻿CrisisHub 
 
 Projeto orientado a resposta de crise em e-commerce apos incidente de vazamento de dados, com interface RAG simples e organizada.
 
