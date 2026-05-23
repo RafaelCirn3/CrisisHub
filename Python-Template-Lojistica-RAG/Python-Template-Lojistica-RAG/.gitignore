@@ -1,0 +1,54 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Runtime / logs
+*.log
+
+# Local vector index and generated artifacts
+ai_index/
+*.faiss
+*.npy
+*.sqlite3
+
+# Local uploaded docs (keep folder, ignore contents)
+documentos/*
+!documentos/.gitkeep
+
+# Temporary data
+*.tmp
+*.bak
+
+# Optional notebooks
+.ipynb_checkpoints/

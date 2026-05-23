@@ -1,0 +1,2 @@
+﻿Resultado de execucao de exemplo do CrisisHub.
+Use o endpoint /rag/ask para validar perguntas de LGPD, comunicacao a clientes e medidas de contencao.
